@@ -23,3 +23,12 @@
 ### in GCP -- access understanding 
 
 <img src="cl6.png">
+
+### to Deliver any kind of resources cloud is having deliver Model 
+
+<img src="cl7.png">
+
+## task1 
+
+<img src="task1.png">
+
