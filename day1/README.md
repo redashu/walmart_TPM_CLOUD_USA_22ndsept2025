@@ -32,3 +32,8 @@
 
 <img src="task1.png">
 
+### pricing options in cloud VM 
+
+
+
+<img src="price.png">

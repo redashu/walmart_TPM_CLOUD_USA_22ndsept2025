@@ -1,0 +1,11 @@
+## for HA based webUI (frontend webapp)
+
+:-  how many minimum vm you need 
+
+# 2 vm (selected region)--2 zones 
+: OS selection 
+--gcp region {windows /linux}
+--> linux --choices (ubuntu/centos)
+--> which app server to choose to deploy UI 
+
+==> if we need an HA based app 
