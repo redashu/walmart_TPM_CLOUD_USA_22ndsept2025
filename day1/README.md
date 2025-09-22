@@ -35,5 +35,4 @@
 ### pricing options in cloud VM 
 
 
-
 <img src="price.png">
