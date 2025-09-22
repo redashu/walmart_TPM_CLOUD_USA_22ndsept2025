@@ -19,3 +19,7 @@
 ### Region & av zone 
 
 <img src="cl5.png">
+
+### in GCP -- access understanding 
+
+<img src="cl6.png">
