@@ -7,3 +7,7 @@
 ### Paas with google cloud 
 
 [pass](paas.md)
+
+### IAAS vs PAAS costing 
+
+<img src="paas2.png">
