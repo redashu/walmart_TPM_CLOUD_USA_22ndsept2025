@@ -71,3 +71,9 @@ Since cloud systems are distributed across regions/zones, Partition Tolerance (P
 If you pick Consistency + Partition Tolerance (CP) → During a failure, the system may reject requests to avoid stale data. (e.g., a payment transaction system).
 
 If you pick Availability + Partition Tolerance (AP) → The system will always serve requests, but users might see slightly stale data. (e.g., user profile updates in a social network).
+
+
+### project delivery 
+
+<img src="pr1.png">
+
