@@ -77,3 +77,10 @@ If you pick Availability + Partition Tolerance (AP) → The system will always s
 
 <img src="pr1.png">
 
+### understanding event driven system using apache kafak 
+
+<img src="pr2.png">
+
+## caching in db + backend based content 
+
+<img src="pr3.png">
