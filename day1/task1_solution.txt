@@ -1,11 +1,20 @@
-## for HA based webUI (frontend webapp)
+# High Availability (HA) based Web UI (Frontend Webapp)
 
-:-  how many minimum vm you need 
+## Infrastructure Requirements
 
-# 2 vm (selected region)--2 zones 
-: OS selection 
---gcp region {windows /linux}
---> linux --choices (ubuntu/centos)
---> which app server to choose to deploy UI 
+### Virtual Machines
+- Minimum VM requirement: 2 VMs
+- Deployment: Across 2 zones in selected region
 
-==> if we need an HA based app 
+### Operating System
+- Platform: Linux
+- Distribution options:
+    - Ubuntu
+    - CentOS
+
+### Application Server
+- Selection criteria needed for UI deployment
+- Must support HA configuration
+
+### Notes
+- Implementation requires HA-based application architecture
